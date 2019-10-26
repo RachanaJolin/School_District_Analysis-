@@ -1,4 +1,6 @@
-# School_District_Analysis-
+# School_District_Analysis- Not sure why some of the code after line 7750 isn't showing up on GIt hub, pushed it several times. 
+
+
 How is the district summary affected?
 The passing_math_count and passing_reading_count changed, which in turn changed the average schores for the district. Average Math reading score changed to 78.00 from 78.99. Average reading score also changed to 80.89 from 81.88. These changes in turn changed the %Passing Math and the % Passing Math 
 
